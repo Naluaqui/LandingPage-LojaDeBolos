@@ -126,17 +126,43 @@ header nav ul li a:hover {
     align-items: center;
     text-align: center;
 }
+.product {
+    margin: 3vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
 .product img {
     width: 20vw;
     height: 30vw;
     border-radius: 5px;
 }
-.btnProduct {
-    width: 5vw;
-    height: 5vw;
+.product h3 {
+    font-size: 25px;
+    font-family: "Pacifico", cursive;
+    font-weight: 200;
 }
-.product {
-    margin: 35px;
+.product p {
+    font-size: 15px;
+}
+.btnProduct {
+    width: 0 auto;
+    height: 0 auto;
+    font-size: 20px;
+    border-radius: 50px;
+    padding: 1vh;
+    background-color: var(--azulTurquesa);
+    border: 5px solid var(--branco);
+    color: var(--azul);
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.btnProduct:hover {
+    background-color: var(--pessegoClaro);
+    border: 5px solid var(--azul);
+    color: var(--azul);
+    font-weight: 800;
 }
 .cakeOnSaleSection {
     background-image: url('../assets/backgroundCakes2.png');

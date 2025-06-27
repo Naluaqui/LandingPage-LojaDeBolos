@@ -3,7 +3,7 @@
 
 Projeto desenvolvido com o propósito de praticar a estrutura semântica em HTML, aprimorar a organização do fluxo de trabalho, aplicar técnicas de gestão de tempo e fortalecer habilidades avançadas em CSS. A iniciativa buscou consolidar conhecimentos fundamentais para a criação de interfaces web eficientes e bem estruturadas.
 
-![Logo Sonho em Fatias](./src/assets/logo.png)
+[Gemini_Generated_Image_khqio0khqio0khqi-removebg-preview](https://github.com/user-attachments/assets/72b2a37e-ca8f-47ef-87dd-16dc5e7b09fb)
 
 ![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)
 ![HTML5](https://img.shields.io/badge/HTML-5-orange?logo=html5)
@@ -50,11 +50,11 @@ Com foco na estética pastel e uma navegação intuitiva, o projeto simula a vit
 
 ## 📸 Demonstração
 
-![Sonho Em Fatias Layout](./)
+![Gravação de tela 1 (online-video-cutter com)](https://github.com/user-attachments/assets/e7a8f5a2-738f-438f-890c-f0aaf750d34a)
 
 📱 Responsividade
 O layout utiliza flexbox e unidades relativas, garantindo boa adaptação para diferentes tamanhos de tela.
 
 📩 Contato
-Desenvolvido por Ana Luiza Tibiriçá da Paixão![Gravação de tela 1 (online-video-cutter com)](https://github.com/user-attachments/assets/261e7fd8-f794-4db7-afb1-72dc712b8760)
-![Gravação de tela 1 (online-video-cutter com)](https://github.com/user-attachments/assets/e7a8f5a2-738f-438f-890c-f0aaf750d34a)
+Desenvolvido por Ana Luiza Tibiriçá da Paixão!!
+

@@ -3,7 +3,7 @@
 
 Projeto desenvolvido com o propósito de praticar a estrutura semântica em HTML, aprimorar a organização do fluxo de trabalho, aplicar técnicas de gestão de tempo e fortalecer habilidades avançadas em CSS. A iniciativa buscou consolidar conhecimentos fundamentais para a criação de interfaces web eficientes e bem estruturadas.
 
-[Gemini_Generated_Image_khqio0khqio0khqi-removebg-preview](https://github.com/user-attachments/assets/72b2a37e-ca8f-47ef-87dd-16dc5e7b09fb)
+![Gemini_Generated_Image_khqio0khqio0khqi-removebg-preview](https://github.com/user-attachments/assets/72b2a37e-ca8f-47ef-87dd-16dc5e7b09fb)
 
 ![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)
 ![HTML5](https://img.shields.io/badge/HTML-5-orange?logo=html5)
@@ -52,9 +52,9 @@ Com foco na estética pastel e uma navegação intuitiva, o projeto simula a vit
 
 ![Gravação de tela 1 (online-video-cutter com)](https://github.com/user-attachments/assets/e7a8f5a2-738f-438f-890c-f0aaf750d34a)
 
-📱 Responsividade
+## 📱 Responsividade
 O layout utiliza flexbox e unidades relativas, garantindo boa adaptação para diferentes tamanhos de tela.
 
-📩 Contato
+## 📩 Contato
 Desenvolvido por Ana Luiza Tibiriçá da Paixão!!
 

@@ -34,6 +34,7 @@ header h1 {
     color: var(--marromEscuro);
     font-size: 5vh;
     margin-left: 170px;
+    font-weight: 200;
 }
 .logo {
     width: 5vw;
@@ -61,29 +62,62 @@ header nav ul li a {
 }
 header nav ul li:hover{
     background-color: var(--pessegoClaro);
+    border: 5px solid var(--azul);
 }
 header nav ul li a:hover {
     color: rgb(207, 142, 0);
 }
 .heroSection {
-    background: linear-gradient(rgb(46, 23, 0, 0.7)), url('../assets/backgroundCakes.png');
+    background: linear-gradient(rgb(46, 23, 0, 0.8)), url('../assets/backgroundCakes.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
     display: flex;
     align-items: center;
     text-align: center;
-    height: 100vh;    
+    height: 100vh; 
 }
 .items {
-    background-color: rgba(255, 204, 204, 0.8);
-    margin: 60vh;
+    z-index: 10;
+    color: var(--branco);
+    margin: 0 auto;
     padding: 2vw;
     border-radius: 50px;
     font-size: 3vh;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.items h1 {
+    font-family: "Pacifico", cursive;
+    font-weight: 200;
+}
+.items p {
+    margin-left: 20vw;
+    margin-right: 20vw;
+    font-weight: 200;
+    font-size: 18px;
 }
 .btnHero {
     border-radius: 50px;
+    padding: 2vh;
+    background-color: var(--azulTurquesa);
+    border: 5px solid var(--branco);
+    font-size: 30px;
+    margin: 40px;
+    width: 0 auto;
+    font-size: 18px;
+    color: var(--azul);
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.btnHero:hover {
+    background-color: var(--pessegoClaro);
+    border: 5px solid var(--azul);
+    color: var(--azul);
+    font-weight: 800;
 }
 .menuSection {
     background-color: var(--rosaPastelClaro);

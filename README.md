@@ -50,11 +50,14 @@ Com foco na estética pastel e uma navegação intuitiva, o projeto simula a vit
 
 ## 📸 Demonstração
 
-![Gravação de tela 1 (online-video-cutter com)](https://github.com/user-attachments/assets/e7a8f5a2-738f-438f-890c-f0aaf750d34a)
+![Gravação de tela 1 (online-video-cutter com)](https://github.com/user-attachments/assets/9e128623-d3da-485f-a397-ac3002e64eed)
+
+---
+
+![Gravação de tela 1 (online-video-cutter com)](https://github.com/user-attachments/assets/a24678e6-dbf1-47ed-aa4b-565b78411b98)
 
 ## 📱 Responsividade
 O layout utiliza flexbox e unidades relativas, garantindo boa adaptação para diferentes tamanhos de tela.
 
 ## 📩 Contato
 Desenvolvido por Ana Luiza Tibiriçá da Paixão!!
-

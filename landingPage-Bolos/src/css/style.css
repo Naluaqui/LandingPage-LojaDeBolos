@@ -180,6 +180,7 @@ header nav ul li a:hover {
     height: 100vh;
     justify-content: flex-end;
     display: flex;
+    color: var(--marromEscuro);
 }
 .sale aside {
     display: flex;
@@ -235,9 +236,32 @@ header nav ul li a:hover {
 }
 footer {
     height: 15vh;
-    background-color: var(--azulClaro);
+    background-color: var(--rosaPastelClaro);
     display: flex;
     align-items: center;
     justify-content: space-between;
     text-align: left;  
+    padding: auto;
+}
+.socialMedia {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 50px;
+}
+
+.socialMedia li a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    justify-content: center;
+    gap: 5px;
+    color: var(--rosa);
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.socialMedia li a img {
+    height: 35px;
+    width: 35px;
 }

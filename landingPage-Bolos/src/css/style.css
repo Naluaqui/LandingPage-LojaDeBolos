@@ -7,6 +7,11 @@
     --amareloPastel: rgba(255, 255, 204, 1);
     --azulClaro: rgba(173, 216, 230, 1);
     --verdeMentaClaro: rgba(204, 255, 204, 1);
+    --chocolate: rgba(123, 63, 0, 1);
+    --marrom: rgba(92, 46, 0, 1);
+    --azul: rgba(60, 140, 190, 1);
+    --cinza: rgba(50, 50, 50, 1);
+    --marromEscuro: rgba(46, 23, 0);
 }
 * {
     margin: 0;
@@ -24,18 +29,44 @@ header {
     align-items: center;
     display: flex;
 }
+header h1 {
+    font-family: "Pacifico", cursive;
+    color: var(--marromEscuro);
+    font-size: 5vh;
+    margin-left: 170px;
+}
 .logo {
     width: 5vw;
     height: 5vw;
     margin-left: 15px;
 }
 header nav ul {
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     padding: 20px;
 }
+header nav ul li{
+    background-color: var(--azulTurquesa);
+    border-radius: 50px;
+    text-transform: uppercase;
+    padding: 6px;
+    margin: 5px;
+    display: inline;
+    height: 4px;
+}
+header nav ul li a {
+    text-decoration: none;
+    color: var(--azul);
+    font-size: 2.5vh;
+}
+header nav ul li:hover{
+    background-color: var(--pessegoClaro);
+}
+header nav ul li a:hover {
+    color: rgb(207, 142, 0);
+}
 .heroSection {
-    background-image: url('../assets/backgroundCakes.png');
+    background: linear-gradient(rgb(46, 23, 0, 0.7)), url('../assets/backgroundCakes.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;

@@ -5,7 +5,7 @@ Projeto desenvolvido com o propósito de praticar a estrutura semântica em HTML
 
 ![Gemini_Generated_Image_khqio0khqio0khqi-removebg-preview](https://github.com/user-attachments/assets/72b2a37e-ca8f-47ef-87dd-16dc5e7b09fb)
 
-![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![HTML5](https://img.shields.io/badge/HTML-5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-3-blue?logo=css3)
 
@@ -18,8 +18,6 @@ Projeto desenvolvido com o propósito de praticar a estrutura semântica em HTML
 - [🚀 Tecnologias Utilizadas](#🚀-tecnologias-utilizadas)
 - [📸 Demonstração](#📸-demonstração)
 - [📱 Responsividade](#📱-responsividade)
-- [🛠️ Melhorias Futuras](#🛠️-melhorias-futuras)
-- [📩 Contato](#📩-contato)
 
 ---
 

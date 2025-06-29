@@ -139,13 +139,15 @@ header nav ul li a:hover {
     height: 30vw;
     border-radius: 5px;
 }
-.product h3 {
+.product div h3 {
     font-size: 25px;
     font-family: "Pacifico", cursive;
     font-weight: 200;
+    margin: 2px;
 }
-.product p {
+.product div p {
     font-size: 15px;
+    margin: 2px;
 }
 .btnProduct {
     width: 0 auto;
@@ -158,6 +160,7 @@ header nav ul li a:hover {
     color: var(--azul);
     text-transform: uppercase;
     cursor: pointer;
+    margin: 2px;
 }
 .btnProduct:hover {
     background-color: var(--pessegoClaro);
@@ -264,4 +267,77 @@ footer {
 .socialMedia li a img {
     height: 35px;
     width: 35px;
+}
+@media (min-width: 600px) and (max-width: 1224px) {
+    header  h1 {
+        font-size: 5vw;
+        margin-left: 0px;
+        margin-right: 14vh;
+    }
+    .logo {
+        width: 9vw;
+        height: 9vw;
+        margin-left: 8px;
+    }
+    header nav ul li {
+        padding: 3px;
+        margin: 5px;
+    }
+    header nav ul li a {
+        font-size: 2.4vw;
+    }
+    header nav ul li:hover {
+        border: 2px solid var(--azul);
+    }
+    .menuSection {
+        height: auto;
+        flex-direction: column;
+    }
+    .product {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        gap: 20px;
+    }
+    .product img {
+        margin-right: auto;
+        width: 40vw;
+        height: 60vw;
+    }
+    .product div h3 {
+        margin-bottom: 20px;
+    }
+    .product div p {
+        margin-bottom: 20px;
+    }
+    .btnProduct {
+        margin-bottom: 20px;
+    }
+    .cakeOnSaleSection {
+        background: linear-gradient(rgba(255, 204, 204, 0.8)), url('../assets/backgroundCakes2.png') ;
+        background-size: cover;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .sale {
+        width: auto;
+        height: auto;
+        justify-content: center;
+        flex-direction: column;
+       
+        border-radius: 50px;
+    }
+    .sale aside {
+        margin: 0;
+    }
+    .sale aside h2 {
+        font-size: 65px;
+    }
+    .sale aside h3 {
+        font-size: 30px;
+    }
+    .sale aside h4 {
+        font-size: 30px;
+    }
+   
 }
